@@ -1,0 +1,7 @@
+{
+  "name": "100% Watermark",
+  "description": "A high-performance batch image watermarking tool with professional logo customization and TikTok-style video slideshow generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
